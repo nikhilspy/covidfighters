@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Donation for welfare</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Overpass:300,400,400i,600,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+
+    
+    <div class="hero-wrap" style="background-image: url('images/bg_7.jpg');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-7 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Doing Nothing is Not An Option of Our Life</h1>
+            <p class="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"> Many poor families in slums and villages are without food and money, during this lockdown.
+
+Our local field workers (who have been running tuition centers in the areas) are identifying such families and providing them provisions for a week. (Rice, dal, oil, soap for about Rs. 1500 per family)
+
+You can donate to Aid India’s Corona Relief Fund to provide relief for these poor families.
+
+As our office is closed and people are working from home, our secretary Balaji Sampath will be posting updates of our work on his Facebook page. You can see some of the updates here:</p>
+
+            <h3 data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#donate" class="btn btn-white btn-outline-white px-4 py-3 "><span></span>Donate Now</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="ftco-counter ftco-intro" id="section-counter">
+    	<div class="container">
+    		<div class="row no-gutters">
+    			<div class="col-md-5 d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 color-1 align-items-stretch">
+              <div class="text">
+              	<span>Total Donation</span>
+                <strong class="number" data-number="2972">0</strong>
+                <span><h1>Billion</h1></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 color-2 align-items-stretch">
+              <div class="text">
+              	<h3 class="mb-4">Donate Money</h3>
+              	<p>Giving is not Just about making a donation , its abput making Difference</p>
+              	<p><a href="#donate" class="btn btn-white px-3 py-2 mt-2">Donate Now</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 color-3 align-items-stretch">
+              <div class="text">
+              	<h3 class="mb-4">Be a Volunteer</h3>
+              	<p>Volunteers are the only human beings on the face of the earth who reflect this nation’s compassion, unselfish caring, patience, and just plain loving one another.</p>
+              	<p><a href="#volunteer" class="btn btn-white px-3 py-2 mt-2">Be A Volunteer</a></p>
+              </div>
+            </div>
+          </div>
+    		</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row">
+          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 d-flex services p-3 py-4 d-block">
+              <div class="icon d-flex mb-3"><span class="flaticon-donation-1"></span></div>
+              <div class="media-body pl-4">
+                <h3 class="heading">Make Donation</h3>
+                <p>True value of once's life can be measured if the person is able to make significant difference in someone's life.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 d-flex services p-3 py-4 d-block">
+              <div class="icon d-flex mb-3"><span class="flaticon-charity"></span></div>
+              <div class="media-body pl-4">
+                <h3 class="heading">Become A Volunteer</h3>
+                <p>Volunteers are the only human beings on the face of the earth who reflect this nation’s compassion, unselfish caring, patience, and just plain loving one another.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 d-flex services p-3 py-4 d-block">
+              <div class="icon d-flex mb-3"><span class="flaticon-donation"></span></div>
+              <div class="media-body pl-4">
+                <h3 class="heading">Sponsorship</h3>
+                <p>Fundraising is the gentle art of teaching the joy of giving</p>
+              </div>
+            </div>    
+          </div>
+        </div>
+    	</div>
+    </section>
+
+
+    <section class="ftco-section bg-light">
+    	<div class="container-fluid">
+    		<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-5 heading-section ftco-animate text-center">
+            <h2 class="mb-4">Effects of COVID-19 In India</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          </div>
+        </div>
+    		<div class="row">
+    			<div class="col-md-12 ftco-animate">
+    				<div class="carousel-cause owl-carousel">
+	    				<div class="item">
+	    					<div class="cause-entry">
+		    					<a href="#" class="img" style="background-image: url(images/cause-1.jpg);"></a>
+		    					<div class="text p-3 p-md-4">
+		    						<h3><a href="#">Huge crowds as India lockdown sparks mass migration</a></h3>
+		    						<p>Streets around the Indian capital Delhi have been filled with people walking to reach their villages in neighbouring states.
+
+Most of them are daily-wage workers who are now out of work after Prime Minister Narendra Modi announced a complete lockdown of the country on 24 March to halt the spread of coronavirus.
+
+In the absence of money and jobs, they are desperate to reach their villages. Some found government-run buses to reach home and others just continued to walk.</p>
+		    						<span class="donation-time mb-3 d-block">Last donation 1w ago</span>
+		                <div class="progress custom-progress-success">
+		                  <div class="progress-bar bg-primary" role="progressbar" style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
+		                </div>
+		                <span class="fund-raised d-block"₹5 Lakh
+
+ raised of  ₹10 Lakh></span>
+		    					</div>
+		    				</div>
+	    				</div>
+	    				<div class="item">
+	    					<div class="cause-entry">
+		    					<a href="#" class="img" style="background-image: url(images/cause-2.jpg);"></a>
+		    					<div class="text p-3 p-md-4">
+		    						<h3><a href="#">Lost Of work of many Labourers and Daily-wagers.</a></h3>
+			<p>Under lockdown, well-off Indians isolate indoors, work from home and get groceries delivered.
+
+But outside their windows, it's a different story: Poor laborers amass in the streets, hungry and homeless.		    
+
+Most of them are daily-wage workers who are now out of work after  the complete lockdown in our country.
+
+In the absence of money and jobs, they are desperate to reach their villages. Some found government-run buses to reach home and others just continued to walk.</p>
+		    						<span class="donation-time mb-3 d-block">Last donation 1w ago</span>
+		                <div class="progress custom-progress-success">
+		                  <div class="progress-bar bg-primary" role="progressbar" style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
+		                </div>
+		                <span class="fund-raised d-block">₹5 Lakh
+
+ raised of  ₹10 Lakh</span>
+		    					</div>
+		    				</div>
+	    				</div>
+	    				<div class="item">
+	    					<div class="cause-entry">
+		    					<a href="#" class="img" style="background-image: url(images/cause-3.jpg);"></a>
+		    					<div class="text p-3 p-md-4">
+		    						<h3><a href="#">Drastic Effects On Indian Economy </a></h3>
+		    		<h5>COVID-19 lockdown may cost the economy Rs 8.76 lakh crore</h5>				<p>India is now facing its greatest crisis since its independence. There is a 21-day lockdown to enforce self-distancing to prevent the spread of COVID-19 and flatten its growth curve. It is natural that in the process, the economy is on complete bed rest. The exercise is to find out the cost of this lockdown.</p>
+		    						<span class="donation-time mb-3 d-block">Last donation 1w ago</span>
+		                <div class="progress custom-progress-success">
+		                  <div class="progress-bar bg-primary" role="progressbar" style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
+		                </div>
+		                <span class="fund-raised d-block">₹5 Lakh
+
+ raised of  ₹10 Lakh</span>
+		    					</div>
+		    				</div>
+	    				</div>
+	    				<div class="item">
+	    					<div class="cause-entry">
+		    					<a href="#" class="img" style="background-image: url(images/cause-4.jpg);"></a>
+		    					<div class="text p-3 p-md-4">
+		    						<h3><a href="#">Gross domestic product</a></h3>
+		    						<p>the country's GDP forecast amid the Covid-19 crisis and expects the economy to grow at just 2 per cent in the current fiscal.The Indian economy is likely to witness a sharp contraction of 4.5 per cent (de-growth) during Q4 FY20 and is expected to recover gradually</p>
+		    						<span class="donation-time mb-3 d-block">Last donation 1w ago</span>
+		                <div class="progress custom-progress-success">
+		                  <div class="progress-bar bg-primary" role="progressbar" style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
+		                </div>
+		                <span class="fund-raised d-block">₹5 Lakh
+
+ raised of  ₹10 Lakh</span>
+		    					</div>
+		    				</div>
+	    				</div>
+	    				<div class="item">
+	    					<div class="cause-entry">
+		    					<a href="#" class="img" style="background-image: url(images/cause-5.jpg);"></a>
+		    					<div class="text p-3 p-md-4">
+		    						<h3><a href="#">Homeless Peolple</a></h3>
+		    						<p>Labourers and waste pickers - most of them homeless or too poor to afford a meal - are among the hardest hit by nationwide lockdown to stem the spread of coronavirus.
+
+Most of the estimated 4 million plus homeless people in India have had no way of earning .With streets deserted, even begging is not an option.
+
+Many wander aimlessly, some find refuge at homeless shelters where ranks of people sleep beside each other.
+
+With thousands forced to walk miles to reach home since the lockdown began, many aid workers say the millions of homeless in India face a bigger risk.</p>
+		    						<span class="donation-time mb-3 d-block">Last donation 1w ago</span>
+		                <div class="progress custom-progress-success">
+		                  <div class="progress-bar bg-primary" role="progressbar" style="width: 28%" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
+		                </div>
+		                <span class="fund-raised d-block">₹5 Lakh
+
+ raised of  ₹10 Lakh</span>
+		    					</div>
+		    				</div>
+	    				</div>
+	    						</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+<section id="donate" class="ftco-section-3 img" style="background-image: url(images/bg_3.jpg);">
+    	<div class="overlay"></div>
+    	<div class="container">
+    		<div class="row d-md-flex">
+    		<div class="col-md-6 d-flex ftco-animate">
+    			<div class="img img-2 align-self-stretch" style="background-image: url(images/bg_4.jpg);"></div>
+    		</div>
+    		<div class="col-md-6 volunteer pl-md-5 ftco-animate">
+    			<h3 class="mb-3">Donate Money </h3>
+    			<form action="#" class="volunter-form">
+
+   <div class="form-group">
+              <input type="text" class="form-control" placeholder="Donation Type">
+            </div>
+   <div class="form-group">
+              <input type="number" class="form-control" placeholder="Donation Amount">
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+              <textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Message"></textarea>
+            </div>
+            <div class="form-group">
+              <input type="submit" value="Donate Money" class="btn btn-white py-3 px-5">
+            </div>
+          </form>
+    		</div>    			
+    		</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section">
+      <div class="container">
+      	<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section ftco-animate text-center">
+            <h2 class="mb-4">Latest Donations</h2>
+            <p>We make a living By What we get we make a Life by  What we Give.</p>
+          </div>
+        </div>
+        <div class="row">
+        	<div class="col-lg-4 d-flex mb-sm-4 ftco-animate">
+        		<div class="staff">
+        			<div class="d-flex mb-4">
+        				<div class="img" style="background-image: url(images/person_1.jpg);"></div>
+        				<div class="info ml-4">
+        					<h3><a href="teacher-single.html">Ratan Tata</a></h3>
+        					<span class="position">Donated Just now</span>
+        					<div class="text">
+		        				<p>Donated <span>₹500 crores</span> for <a href="#">PM-CARES Funds</a></p>
+		        			</div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        	<div class="col-lg-4 d-flex mb-sm-4 ftco-animate">
+        		<div class="staff">
+        			<div class="d-flex mb-4">
+        				<div class="img" style="background-image: url(images/person_2.jpg);"></div>
+        				<div class="info ml-4">
+        					<h3><a href="teacher-single.html">Mukesh Ambani</a></h3>
+        					<span class="position">Donated Just now</span>
+        					<div class="text">
+		        				<p>Donated <span>₹500 crores</span> for <a href="#">PM-CARES Funds</a></p>
+		        			</div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        	<div class="col-lg-4 d-flex mb-sm-4 ftco-animate">
+        		<div class="staff">
+        			<div class="d-flex mb-4">
+        				<div class="img" style="background-image: url(images/person_3.jpg);"></div>
+        				<div class="info ml-4">
+        					<h3><a href="teacher-single.html">Akshay Kumar</a></h3>
+        					<span class="position">Donated Just now</span>
+        					<div class="text">
+		        				<p>Donated <span>₹25 crores</span> for <a href="#">PM-CARES Funds</a></p>
+		        			</div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </div>
+      </div>
+    </section>
+
+   
+		
+		<section id="volunteer" class="ftco-section-3 img" style="background-image: url(images/bg_3.jpg);">
+    	<div class="overlay"></div>
+    	<div class="container">
+    		<div class="row d-md-flex">
+    		<div class="col-md-6 d-flex ftco-animate">
+    			<div class="img img-2 align-self-stretch" style="background-image: url(images/bg_4.jpg);"></div>
+    		</div>
+    		<div class="col-md-6 volunteer pl-md-5 ftco-animate">
+    			<h3 class="mb-3">Be a volunteer</h3>
+    			<form action="#" class="volunter-form">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Your Email">
+            </div>
+            <div class="form-group">
+              <textarea name="" id="" cols="30" rows="3" class="form-control" placeholder="Message"></textarea>
+            </div>
+            <div class="form-group">
+              <input type="submit" value="Send Message" class="btn btn-white py-3 px-5">
+            </div>
+          </form>
+    		</div>    			
+    		</div>
+    	</div>
+    </section>
+
+    <footer class="ftco-footer ftco-section img">
+    	<div class="overlay"></div>
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-3">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">About Us</h2>
+              <p></p>
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+        
+          <div class="col-md-2">
+             <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Site Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#" class="py-2 d-block">Home</a></li>
+                <li><a href="#" class="py-2 d-block">About</a></li>
+                <li><a href="#" class="py-2 d-block">Donate</a></li>
+                <li><a href="#" class="py-2 d-block">Online Stores</a></li>
+                
+
+                <li><a href="#" class="py-2 d-block">Helpline</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">504 Delhi NCR Savita Vihar 110001</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91+91 73004 32338</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">shubhammishra@yahoo.com</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/bootstrap-datepicker.js"></script>
+  <script src="js/jquery.timepicker.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
